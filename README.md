@@ -1,7 +1,7 @@
 # 📊 Projetos em Data Science & Machine Learning
 
 **`por Laura Mendes Vialta`**  
-👩🏻‍💻 Cientista de Dados | Foco em Machine Learning
+👩🏻‍💻 Cientista de Dados | Especialista em Machine Learning
 
 ---
 

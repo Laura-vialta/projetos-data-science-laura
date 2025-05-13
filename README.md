@@ -108,3 +108,7 @@ Aqui você vai encontrar desde aplicações com **Reinforcement Learning**, **Re
 ### 💊 **14. Feature Engineering com Dados Farmacêuticos**
 🔗 [Acessar no Colab](https://colab.research.google.com/drive/1BpDGq83ug1C7yi-CHHCNpmzXEHBS3dyS?usp=sharing)  
 📝 Transformações e seleção de atributos para melhorar modelos em dados farmacêuticos.
+
+### 💼 **15. Analise de Carteira de Investimentos**
+🔗 [Acessar no Colab](https://colab.research.google.com/drive/1c6BjYnu4dMMFSZGrR9G0Dy-f-f1Jw1rf?usp=sharing)  
+📝 Bootcamp da TCD Tech de analise de carteira de investimento.
